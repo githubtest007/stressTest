@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="testproj" parallel="false">
+    <test name="testDemo1">
+        <classes>
+            <class name="io.renren.modules.test.controller.StressTestControllerTest"></class>
+        </classes>
+    </test>
+</suite>
